@@ -1,2 +1,2 @@
-# protemics_hoshino
+# proteomics_hoshino
 study on proteomics (Prof. Ayuko Hoshino, Prof. Lav Varshney)
