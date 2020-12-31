@@ -1,2 +1,2 @@
-# proteomics_hoshino
-study on proteomics (Prof. Ayuko Hoshino, Prof. Lav Varshney)
+# hoshinolab_rnaseq
+study on RNA sequencing (Prof. Ayuko Hoshino, Prof. Lav Varshney)
